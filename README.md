@@ -2,7 +2,7 @@
 - 👀 I’m interested in helping people!
 - 🌱 I’m currently learning lua!
 - 💞️ I’m looking to collaborate on coding!
-- 📫 How to reach me? you really cont
+- 📫 How to reach me? you really can't.
 
 <!---
 bobjalloin/bobjalloin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
